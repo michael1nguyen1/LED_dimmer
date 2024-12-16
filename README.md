@@ -24,6 +24,7 @@ Check out the demo video of the LED brightness control in action:
 - `RPi.GPIO` library (installed by default on most Raspberry Pi systems).
 
 ## **Wiring Setup**
+<img src="assets/breadboard.jpg" width="400" />
 
 1. **LED Setup**:
    - Connect the **anode (long leg)** of the LED to GPIO pin 17 (or any available GPIO pin).
